@@ -4,3 +4,14 @@ Este proyecto permite implementar una aplicación de teleoperación con el Phant
 ![Phantom X Espacio de trabajo](/Plano_de_trabajo_1.PNG?raw=true "Phantom X Espacio de trabajo")![Phantom X Espacio de trabajo1](/Plano_de_trabajo_2.PNG?raw=true "Phantom X Espacio de trabajo1")
 
 Medidas en mm.
+
+En cuanto a la conexión...
+
+
+
+# Instalación
+Clona los archivos en tu espacio de trabajo. Si quiere utilizar el proyecto en dos computadores, los archivos de MATLAB deben ir en el otro computador.
+
+# Configuración
+
+
