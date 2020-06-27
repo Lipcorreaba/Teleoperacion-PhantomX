@@ -5,13 +5,10 @@ Este proyecto permite implementar una aplicación de teleoperación con el Phant
 
 Medidas en mm.
 
-En cuanto a la conexión...
+
+# Instalación y configuración
+Clone los archivos en su espacio de trabajo en Ubuntu. Si quiere utilizar el proyecto en dos computadores, los archivos de MATLAB deben ir en el otro computador. Para mayor información ver el archivo ----
 
 
-
-# Instalación
-Clona los archivos en tu espacio de trabajo. Si quiere utilizar el proyecto en dos computadores, los archivos de MATLAB deben ir en el otro computador.
-
-# Configuración
 
 
