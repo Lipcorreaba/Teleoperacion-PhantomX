@@ -7,7 +7,7 @@ Medidas en mm.
 
 
 # Instalación y configuración
-Clone los archivos en su espacio de trabajo en Ubuntu. Si quiere utilizar el proyecto en dos computadores, los archivos de MATLAB deben ir en el otro computador. Para mayor información ver el archivo ----
+Clone los archivos en su espacio de trabajo en Ubuntu y descargue los archivos de MATLAB de la interfaz ProyectoGUI. En el archivo Tutorial_Teleoperacion.pdf se encuentra un tutorial con lo detalles necesarios para el inicio de operación.
 
 
 
